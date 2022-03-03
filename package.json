@@ -1,0 +1,14 @@
+{
+  "name": "filesystem12",
+  "version": "1.0.1",
+  "description": "a package that helps you to work with file sysytm 5 commands namely READ WRITE RENAME DELETE and APPEND",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "filesystem"
+  ],
+  "author": "Jazzy Bruno",
+  "license": "ISC"
+}
